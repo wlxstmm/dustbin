@@ -1,0 +1,12 @@
+<ul class="fadeIn_slideShow">
+    <li class="fadeIn_slideShow_item" x-repeat="slideShow">
+        <a>
+            <img src="{{slideImg}}" style="left:{{left}}px"class="fadeIn_slideShow_img" e-swipeleft="swipeImgLeft" e-swiperight="swipeImgRight">
+        </a>
+    </li>
+</ul>
+<ul class="fadeIn_slideShow_dots">
+    <li class="dots_item" x-repeat="dots" e-click="clickDots" x-class="{dots_active: 'switch == 1'}">
+        <span class="dots_blank" id="{{dotsId}}"></span>
+    </li>
+</ul>

@@ -1,0 +1,15 @@
+{
+  "img": [
+    {
+      "part": "img/container1.gif"
+    },
+    {
+      "part": "img/container2.gif"
+    },
+    {
+      "part": "img/container3.gif"
+    }
+  ],
+  "url": "",
+  "name": "图书打折"
+}

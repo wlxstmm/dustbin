@@ -1,0 +1,29 @@
+{
+  "page": [
+    {
+      "name": "home",
+      "state": "active",
+      "img": "img/home_active.png"
+    },
+    {
+      "name": "type",
+      "state": "quiet",
+      "img": "img/type_quiet.png"
+    },
+    {
+      "name": "discover",
+      "state": "quiet",
+      "img": "img/discover_quiet.png"
+    },
+    {
+      "name": "cart",
+      "state": "quiet",
+      "img": "img/cart_quiet.png"
+    },
+    {
+      "name": "login",
+      "state": "quiet",
+      "img": "img/login_quiet.png"
+    }
+  ]
+}

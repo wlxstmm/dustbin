@@ -1,0 +1,44 @@
+{
+  "type": [
+    {
+      "img": "img/京东超市.png",
+      "describe": "京东超市"
+    },
+    {
+      "img": "img/海囤全球.png",
+      "describe": "海囤全球"
+    },
+    {
+      "img": "img/京东服饰.png",
+      "describe": "京东服饰"
+    },
+    {
+      "img": "img/京东生鲜.png",
+      "describe": "京东生鲜"
+    },
+    {
+      "img": "img/京东旅行.png",
+      "describe": "京东旅行"
+    },
+    {
+      "img": "img/充值缴费.png",
+      "describe": "充值缴费"
+    },
+    {
+      "img": "img/9.9元拼.png",
+      "describe": "9.9元拼"
+    },
+    {
+      "img": "img/领券.png",
+      "describe": "领券"
+    },
+    {
+      "img": "img/赚钱.png",
+      "describe": "赚钱"
+    },
+    {
+      "img": "img/全部.png",
+      "describe": "全部"
+    }
+  ]
+}

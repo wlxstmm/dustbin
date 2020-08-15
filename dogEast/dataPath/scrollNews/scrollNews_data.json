@@ -1,0 +1,26 @@
+{
+  "logoImg": "img/jdNewsLogo.png",
+  "slideNews": [
+    {
+      "slideTitle": "推荐",
+      "slideContent": "带上森海塞尔耳机，听听这大千世界"
+    },
+    {
+      "slideTitle": "最新",
+      "slideContent": "十大茶叶基本常识，懂五条以上算你厉害！"
+    },
+    {
+      "slideTitle": "热门",
+      "slideContent": "为什么懂电脑的人不买i7处理器呢？"
+    },
+    {
+      "slideTitle": "HOT",
+      "slideContent": "英伟达坐不住！AMD发布全球首款7nm显卡，价格很感人"
+    },
+    {
+      "slideTitle": "推荐",
+      "slideContent": "带上森海塞尔耳机，听听这大千世界"
+    }
+  ],
+  "divide": "img/divide.png"
+}

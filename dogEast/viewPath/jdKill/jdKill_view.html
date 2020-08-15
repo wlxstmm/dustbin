@@ -1,0 +1,18 @@
+<div class="jdKill_title">
+    <div class="jdKill_title_logo">京东秒杀</div>
+    <div class="jdKill_title_time"></div>
+    <div class="jdKill_title_more">
+        <a class="jdKill_title_more_link">{{linkContent}}</a>
+        <img src="{{moreLogo}}" alt="" class="jdKill_title_more_logo">
+    </div>
+</div>
+<div class="jdKill_goods">
+    <ul class="jdKill_goods_list">
+        <li class="jdKill_goods_item" x-repeat="item">
+            <img src="{{itemImg}}" alt="" class="jdKill_goods_item_img">
+            <div class="jdKill_goods_item_initPrice"><span>¥</span>{{initPrice}}</div>
+            <img src="{{delete}}" alt="" class="deleteLine jdKill_goods_item_delete">
+            <div class="jdKill_goods_item_originalPrice"><span>¥</span>{{originalPrice}}</div>
+        </li>
+    </ul>
+</div>
