@@ -1,0 +1,125 @@
+{
+  "type": "symbol",
+  "member": [
+    {
+      "name": "root",
+      "url": "voice/prescription.mp3",
+      "content": "√"
+    },
+    {
+      "name": "square",
+      "url": "voice/square.mp3",
+      "content": "x²"
+    },
+    {
+      "name": "rec",
+      "url": "voice/reciprocal.mp3",
+      "content": "1/x"
+    },
+    {
+      "name": "divide",
+      "url": "voice/divide.mp3",
+      "content": "÷"
+    },
+    {
+      "name": "clearError",
+      "url": "voice/clear.mp3",
+      "content": "CE"
+    },
+    {
+      "name": "zeroing",
+      "url": "voice/rtz.mp3",
+      "content": "C"
+    },
+    {
+      "name": "backSpace",
+      "url": "voice/backspace.mp3",
+      "content": "←"
+    },
+    {
+      "name": "multiply",
+      "url": "voice/multiply.mp3",
+      "content": "×"
+    },
+    {
+      "name": 7,
+      "url": "voice/7.mp3",
+      "content": 7
+    },
+    {
+      "name": 8,
+      "url": "voice/8.mp3",
+      "content": 8
+    },
+    {
+      "name": 9,
+      "url": "voice/9.mp3",
+      "content": 9
+    },
+    {
+      "name": "reduce",
+      "url": "voice/reduce.mp3",
+      "content": "－"
+    },
+    {
+      "name": 4,
+      "url": "voice/4.mp3",
+      "content": 4
+    },
+    {
+      "name": 5,
+      "url": "voice/5.mp3",
+      "content": 5
+    },
+    {
+      "name": 6,
+      "url": "voice/6.mp3",
+      "content": 6
+    },
+    {
+      "name": "plus",
+      "url": "voice/plus.mp3",
+      "content": "＋"
+    },
+    {
+      "name": 1,
+      "url": "voice/1.mp3",
+      "content": 1
+    },
+    {
+      "name": 2,
+      "url": "voice/2.mp3",
+      "content": 2
+    },
+    {
+      "name": 3,
+      "url": "voice/3.mp3",
+      "content": 3
+    },
+    {
+      "name": "dot",
+      "url": "voice/dot.mp3",
+      "content": "."
+    },
+    {
+      "name": "leftBracket",
+      "url": "voice/bracket.mp3",
+      "content": "("
+    },
+    {
+      "name": 0,
+      "url": "voice/0.mp3",
+      "content": 0
+    },
+    {
+      "name": "rightBracket",
+      "url": "voice/bracket.mp3",
+      "content": ")"
+    },
+    {
+      "name": "solve",
+      "url": "voice/solve.mp3",
+      "content": "="
+    }
+  ]
+}

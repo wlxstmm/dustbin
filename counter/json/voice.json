@@ -1,0 +1,29 @@
+{
+  "type": "voice",
+  "members": [
+    {
+      "name": "ten",
+      "url": "voice/十.mp3"
+    },
+    {
+      "name": "hundred",
+      "url": "voice/百.mp3"
+    },
+    {
+      "name": "thousand",
+      "url": "voice/千.mp3"
+    },
+    {
+      "name": "tenThousand",
+      "url": "voice/万.mp3"
+    },
+    {
+      "name": "oneHundredMillion",
+      "url": "voice/亿.mp3"
+    },
+    {
+      "name": "trillion",
+      "url": "voice/兆.mp3"
+    }
+  ]
+}

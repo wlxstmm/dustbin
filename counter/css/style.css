@@ -1,0 +1,171 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    overflow:hidden
+}
+
+.fl
+{
+    float: left;
+}
+
+.fr
+{
+    float: right;
+}
+
+.main
+{
+    width: 100vw;
+    height: 99vh;
+    background: rgba(221,221,221,0.4);
+    border: solid 1px deepskyblue;
+    box-shadow: 0 0 15px 1px gray;
+}
+
+.main ul,li
+{
+    list-style: none;
+}
+/* 标题部分开始 */
+.title
+{
+    width: 100%;
+    height: 5vh;
+    line-height: 5vh;
+}
+
+.title-name
+{
+    margin-left: 5vw;
+    font-size: 1.5rem;
+}
+
+/* 标题部分结束 */
+
+
+.head
+{
+    width: 100%;
+    height: 3vh;
+}
+
+.nav
+{
+    width: 20%;
+    line-height: 3vh;
+    margin-left: 3vw;
+}
+
+.nav-logo
+{
+    width: 50%;
+    text-align: center;
+    cursor:pointer;
+}
+
+.nav-tip
+{
+    width: 50%;
+    text-align: left;
+    font-size: 1rem;
+}
+
+.history
+{
+    width: 8%;
+    line-height: 3vh;
+    text-align: center;
+    cursor:pointer;
+    font-size: 1rem;
+
+}
+
+.history:hover
+{
+    /*  border: 1px solid #AAAAAA;*/                                      /* 这个地方加了边框会使下面的显示区域后边距提前，不知道为啥 */
+    background: rgba(170,170,170,0.4);
+}
+
+/* 头部分结束 */
+
+/* 显示区域 */
+.show
+{
+    width: 100%;
+    height: 15vh;
+}
+
+.show-record
+{
+    height: 5vh;
+    text-align: right;
+    padding-right: 5vw;
+    line-height: 5vh;
+    font-size: 1.2rem;
+}
+
+.show-import
+{
+    height: 10vh;
+    text-align: right;
+    font-size: 3rem;
+    font-weight: bolder;
+    padding-right: 5vw;
+    line-height: 10vh;
+}
+
+.operate
+{
+    width: 100%;
+    height: 76vh;
+    position: relative;
+    right: -0.3%;
+    cursor:pointer;
+    overflow: hidden;
+}
+
+.button
+{
+    width: 24vw;
+    height: 12.5vh;
+    margin: 1px;
+    float: left;
+    line-height: 12.5vh;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.number
+{
+    background: white;
+}
+
+.number:hover
+{
+    background: rgba(221,221,221,0.8);
+}
+
+.sign
+{
+    color: deepskyblue;
+    background: rgba(221,221,221,0.5);
+}
+
+.sign:hover
+{
+    background: rgba(170,170,170,0.4);
+}
+
+.solve
+{
+    color: white;
+    background-color: rgba(0,178,255,0.8);
+}
+
+.solve:hover
+{
+    background-color: rgba(0,178,255,1);
+}

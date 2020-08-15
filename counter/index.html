@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>myCounter</title>
+	<link rel="stylesheet" href="css/clear.css">
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">
+    	
+   		document.addEventListener('plusready', function(){
+   			//console.log("所有plus api都应该在此事件发生后调用，否则会出现plus is undefined。")
+   			
+   		});
+   		
+    </script>
+</head>
+<body>
+	   <div class="main">
+	        <!-- 计算器标题部分 -->
+	        <div class="title">
+	            <div class="title-name fl">简易计算器</div>
+	        </div>
+	        <!-- 计算器头部分，包含一些特殊功能 -->
+	        <div class="head">
+	            <div class="nav fl">
+	                <div class="nav-logo fl">logo</div>
+	                <div class="nav-tip fl">标准</div>
+	            </div>
+	            <div class="history fr">历史</div>
+	        </div>
+	        <!-- 计算器显示面板，包含record记录板和import输入板 -->
+	        <div class="show">
+	            <div class="show-record" id="record"></div>
+	            <div class="show-import" id="import"></div>
+	        </div>
+	        <!-- 计算器操作面板 -->
+	        <div class="operate" id="operate"></div>
+	    </div>
+	    <script type="text/javascript" src="js/tool.js"></script>
+	    <script type="text/javascript" src="js/voice.js"></script>
+	    <script type="text/javascript" src="js/operation.js"></script>
+	    <script type="text/javascript" src="js/init.js"></script>
+	    <script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
